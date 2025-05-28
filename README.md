@@ -1,6 +1,7 @@
 # 📝 Invoice-Fetcher 📝
 A Python program for automating the downloading and printing of invoices from the Autopay service.
-[![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/bumbot-hub/Invoice-Fetcher)](https://badges.pufler.dev)
+
+[![Visits Badge](https://badges.pufler.dev/visits/bumbot-hub/Invoice-Fetcher)](https://badges.pufler.dev)
 
 ## ✨ Features ✨
   -> **Download invoices ⬇️** Automatically download invoices from the Autopay service,  
